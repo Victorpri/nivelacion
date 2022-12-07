@@ -18,3 +18,4 @@ else:
         r2=(-b+redre)/ (2*a)
 
         print ('tiene dos raices', r1, r2)
+
